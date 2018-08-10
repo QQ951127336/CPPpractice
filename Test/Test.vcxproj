@@ -153,6 +153,7 @@
     <ClCompile Include="Aim.cpp" />
     <ClCompile Include="ArrayTest.cpp" />
     <ClCompile Include="CharTest.cpp" />
+    <ClCompile Include="Pentagonal.cpp" />
     <ClCompile Include="ReadChar.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
