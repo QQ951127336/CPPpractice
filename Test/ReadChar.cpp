@@ -8,6 +8,7 @@
 
 using namespace std;
 
+
 int readChar() {
 	ofstream out_file(".\\test.txt");
 	if (out_file) {

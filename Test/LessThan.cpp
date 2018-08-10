@@ -12,7 +12,5 @@ public:
 		const string & s2) {
 		return s1.size() > s2.size();
 	}
-	void doSort( it) {
-
-	}
+	
 };
