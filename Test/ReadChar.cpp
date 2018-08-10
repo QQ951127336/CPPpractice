@@ -11,7 +11,7 @@ using namespace std;
 int readChar() {
 	ofstream out_file(".\\test.txt");
 	if (out_file) {
-		out_file << "sdsfdgdg\n"
+		out_file << "sdsfdgdg  dddddddddddddddd\n"
 			<< "zzzzzz\n"
 			<< "bye" << endl;
 	}
@@ -42,3 +42,4 @@ const char* msgToUser(const int num_tries) {
 	};
 	return userMessage[num_tries];
 }
+

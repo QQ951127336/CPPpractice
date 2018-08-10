@@ -153,8 +153,12 @@
     <ClCompile Include="Aim.cpp" />
     <ClCompile Include="ArrayTest.cpp" />
     <ClCompile Include="CharTest.cpp" />
+    <ClCompile Include="LessThan.cpp" />
     <ClCompile Include="Pentagonal.cpp" />
+    <ClCompile Include="pentagonal2.cpp" />
     <ClCompile Include="ReadChar.cpp" />
+    <ClCompile Include="ReloadMax.cpp" />
+    <ClCompile Include="SaveMap.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
@@ -162,6 +166,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="StringPractice.cpp" />
+    <ClCompile Include="TemplateMax.cpp" />
     <ClCompile Include="VectorAndArrayTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
