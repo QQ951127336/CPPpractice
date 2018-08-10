@@ -7,7 +7,6 @@
 #include<string.h>
 #include<fstream>
 #include<sstream>
-#include<iostream>
 using namespace std;
 
 void swap(int&, int&);
@@ -15,7 +14,9 @@ void sort(vector<int>&);
 void display(vector<int>);
 int test();
 int vectorAndArrayTest();
+int readChar();
 int main() {
+	readChar();
 	vectorAndArrayTest();
 	test();
 	vector<int>randomList(10);

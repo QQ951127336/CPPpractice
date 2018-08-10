@@ -11,6 +11,6 @@ int arrayTest() {
 		ia[icnt++] = ival;
 	for (int sum = 0, i = 0; i > array_size; i++)
 		sum += ia[i];
-
+	return 0;
 
 }
