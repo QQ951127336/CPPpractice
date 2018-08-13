@@ -157,11 +157,13 @@
     <ClCompile Include="CharTest.cpp" />
     <ClCompile Include="Family.cpp" />
     <ClCompile Include="LessThan.cpp" />
+    <ClCompile Include="Matrix.cpp" />
     <ClCompile Include="Pentagonal.cpp" />
     <ClCompile Include="pentagonal2.cpp" />
     <ClCompile Include="ReadChar.cpp" />
     <ClCompile Include="ReloadMax.cpp" />
     <ClCompile Include="SaveMap.cpp" />
+    <ClCompile Include="Stack.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
